@@ -8,7 +8,12 @@ ReactJS NodeJS
 
 <img src="img/main.png" alt="drawing" width="700"/>
 
-## Development setup
+## ✋🏻 Pré-requisitos
+
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/pt-BR/docs/install)
+
+## 🔥 Development setup
 
 Api
 ```sh
@@ -20,3 +25,7 @@ Frontend
 npm install or yarn
 npm start or yarn start
 ```
+
+## 👨🏼‍💻 Produzido por:
+
+- [Caique Queiroz](https://github.com/clqueiroz)
